@@ -1,7 +1,7 @@
 # Twitch-OAuth
 A simple application for retrieving your access token and refresh token for your twitch applications
 
-###Requirements
+### Requirements
 **Crates** *cargo add <crate name>*
   - tokio
   * url
