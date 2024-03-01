@@ -1,9 +1,11 @@
 # Twitch-OAuth
 A simple application for retrieving your access token and refresh token for your twitch applications
 
+***Very new to Rust. This is just a first draft and part of a bigger project. Also, the parsing for code needs to be changed but it works for now.***
+
 ### Requirements
 
-**Crates** :: *"cargo add <crate_name>"*
+**Crates** *("cargo add <crate_name>")*
   - tokio
   - url
   - serde
