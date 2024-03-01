@@ -13,7 +13,7 @@ A simple application for retrieving your access token and refresh token for your
   - reqwest
   - open
 
-**Twitch Application CliendID and ClientSecret**
+**Twitch Application Credentials**
   - Create an application on the [twitch developer site](https://dev.twitch.tv/console)
       - *You will get a client_id and client_secret that you will need* 
   - You also need to set the redirect url in the application to http://localhost:8080/
